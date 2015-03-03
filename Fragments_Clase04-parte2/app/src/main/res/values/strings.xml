@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragments_Clase04</string>
+    <string name="t1">Envia mensaje</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Soy el fragment1</string>
+    <string name="f2">Soy el fragment2</string>
+
+</resources>
